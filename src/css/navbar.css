@@ -1,0 +1,78 @@
+ 
+body {
+  background:#ffdb51;
+  margin:0 auto;
+}
+
+.page-header {
+  margin:0 auto;
+  border-bottom:none;
+}
+
+header {
+    background-color:#FFF !important;
+    margin:0 auto;
+    height:220px;
+}
+
+#logo-main {
+  display: block;
+  margin: 0 auto;
+  padding-top:23px;
+}
+
+
+.navbar-white {
+    background-color:#FFF;
+    border:none;
+    width:100%;
+    border-radius:0;
+    position:relative;
+    top:-9px;
+    
+}
+
+.navbar-text-color > li > a {
+    color:#9f835e !important;
+    margin:0 auto;
+    display:block;
+}
+
+.navbar-default .navbar-text-color > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    color:#333;
+}
+
+.navbar-text-color > li > a:hover {
+  color: #493c2b !important;
+}
+
+a {
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .active > a, 
+ .navbar-default .navbar-nav > .active > a:hover, 
+ .navbar-default .navbar-nav > .active > a:focus {
+      color: #FFF !important;
+      background:#ffdb51;
+      font-weight:bold;
+      border:none;
+ }
+
+ .navbar-default .navbar-toggle {
+    background-color: #888;
+    border:1px solid #888;
+
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #ffdb51;
+    border:1px solid #ffdb51;          
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color:#FFF;
+}
+
+
