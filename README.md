@@ -1,20 +1,18 @@
 <a href="http://hbsweets.com"> <h3>Honey Bee Sweets</h3> </a>
 
-<p> Honey Bee Sweets is a live functioning website. The website was coded and designed using HTML, CSS, jQuery, Javascript and Bootstrap. Every file and image is available to view.
+<p> This repository contains the source code and images for <a href="http://hbsweets.com">Honey Bee Sweets</a>, a baking company demo website running at hbsweets.com. The website was built and designed using HTML, CSS, jQuery, Javascript and Bootstrap, and runs on desktop and mobile devices.</p>
 
-The motivation behind designing and creating Honey Bee Sweets was simple. A graphic designer using coding skills to become both graphic and web designer.
+</br>
 
-The <strong>images</strong> folder contains all the images on the website.
+<p><strong>images</strong> contains the images on the website.</p>
 
-Codes for plugins are in the <strong> plugins </strong> folder.
+<p><strong>plugins</strong> contains the code used for javascript/jQuery plugins.</p>
 
-The <strong>src</strong> file contains the following:
+<p><strong>src</strong> contains the following:</p>
 <ul>
-<li>CSS files.</li>
+<li>CSS source code</li>
+<li>Javascript code</li>
 <li>Fonts</li>
-<li>JS (javascript codes)</li>
 </ul>
 
-All licenses are stored in the <strong>licenses</strong> folder.
-
-The html web pages are also available to view.
+<p><strong>licenses </strong> contains license information..</p>
